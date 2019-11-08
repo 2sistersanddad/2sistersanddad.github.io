@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/xgoogler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://2sistersanddad.com
+  * I am xgoogler (https://keybase.io/xgoogler) on keybase.
+  * I have a public key ASD8aPwQ1-ClDP37cmLrXdJS0Bx4q8tfOBpbYVTUWRsu-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fc68fc10d7e0a50cfdfb7262eb5dd252d01c78abcb5f381a5b6154d4591b2ef80a",
+      "host": "keybase.io",
+      "kid": "0120fc68fc10d7e0a50cfdfb7262eb5dd252d01c78abcb5f381a5b6154d4591b2ef80a",
+      "uid": "d63444a17f6fad3ac1de2da73e11b919",
+      "username": "xgoogler"
+    },
+    "merkle_root": {
+      "ctime": 1573171777,
+      "hash": "4deac155c7e0e6a9d39a569980764c7cdec2de0d0d5908af2bc025ba07b49a907fa4e8696244e83b02657491d177725d90d6e110c9093c9f857b1c6586d310c8",
+      "hash_meta": "f810edee4bfac01174ab809785a6d38ade0fc2433cc5b51c6cd1f791fde5423e",
+      "seqno": 8916808
+    },
+    "service": {
+      "entropy": "c3a2QxBMZ/UthYYH8AnB1HTW",
+      "hostname": "2sistersanddad.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573171822,
+  "expire_in": 504576000,
+  "prev": "005b539e75a0e67e09bc36c401d2def997f67e1b646dbe40085a802401608bb0",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/Gj8ENfgpQz9+3Ji613SUtAceKvLXzgaW2FU1FkbLvgKp3BheWxvYWTESpcCCMQgAFtTnnWg5n4JvDbEAdLe+Zf2fhtkbb5ACFqAJAFgi7DEILBHABfVyK9rG0CQ7ot9FnZzEFe75BTI2AaCpdXZC6n2AgHCo3NpZ8RAVA+A1cz64op+nOy5553FPrsvIQ/5cJSBKC3Tk2G/M4Al9BLQ/2+f91STCV0TGXegZdQnjzdeGktU5l2lc9npB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINwzO93SWjTLhGN17X0csW8MX2aMjNefUv7PnxUh1UsKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xgoogler
+
+==================================================================
